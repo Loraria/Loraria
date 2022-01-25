@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<img src="https://user-images.githubusercontent.com/95444611/150992002-884e164a-314f-4e4c-8178-efb18097fccb.gif" alt="my banner" width="100%">
+<img src="https://user-images.githubusercontent.com/95444611/150992241-e17c333b-45a4-4314-8429-219356c8dd43.gif" alt="my banner" width="100%">
 </head>
 <body>
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, how to do anything and Kali
