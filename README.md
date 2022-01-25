@@ -3,7 +3,7 @@
 <head>
 <img src="https://user-images.githubusercontent.com/95444611/150992241-e17c333b-45a4-4314-8429-219356c8dd43.gif" alt="my banner" width="100%">
 <br>
-<img src="https://img.shields.io/badge/<name>-<Amy D.>-<#43D8A9>">
+<img src="https://img.shields.io/badge/name-Amy D.-<#43D8A9>">
 </head>
 <body>
 - 🌱 I’m currently learning JavaScript, HTML, CSS, Python, how to do anything and Kali
