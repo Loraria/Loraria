@@ -8,7 +8,8 @@
 <br/>
 <br/>
  Thank you for dropping by! I am still working out how I can format a little bit about myself in here so feel free to check back later!
-          
+
+<img src="https://user-images.githubusercontent.com/95444611/151015673-50780002-e8d0-4cd7-a530-322661ec404f.gif" width="100%"/>
    
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
