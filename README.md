@@ -20,3 +20,4 @@
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://forthebadge.com/generator/  to make badges in future-->
+<!-- add: social media Links; Programming languages; current goals-->
