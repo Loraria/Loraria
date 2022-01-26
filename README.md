@@ -10,8 +10,7 @@
 <br/>
 <img align="left" width="25%" src="https://user-images.githubusercontent.com/95444611/151004861-7d7b843b-5f25-45cc-a928-5e24b3970390.svg"/>
 <br/>
-____________________________________________________________________________________________________________________________________
-<br/>
+___________________________________________________________________________________________________________________
  Thank you for dropping by! I am still working out how I can format a little bit about myself in here so feel free to check back later!
 
 
