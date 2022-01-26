@@ -15,7 +15,7 @@
 
  Thank you for dropping by! I am still working out how I can format a little bit about myself in here so feel free to check back later!
 
-
+***
    
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
