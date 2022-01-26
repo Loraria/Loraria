@@ -13,7 +13,7 @@
 
 ***
 
- Thank you for dropping by! I am still working out how I can format a little bit about myself in here so feel free to check back later!
+ Thank you for dropping by! I am still working out how I can format things in here so feel free to check back later!
 
 ***
    
