@@ -17,16 +17,14 @@
 
 ***
    
-<!--
-** About Me!**
-- I'm currently a full-time intern working on a MaskRCNN image recognition software
-- My interest lies in Full-Stack-Engineering, DevOps, Machine Learning, Deep Learning, Security and Cybersecurity
-- contact me at [](mailto:), I love to connect!
-<br>
-<br>
+
+**About Me!**
+- 🌱 I'm currently a full-time intern working on a MaskRCNN image recognition software
+- 👨🏽‍💻 My interest lies in Full-Stack-Engineering, DevOps, Machine Learning, Deep Learning, Security and Cybersecurity
+- 💬 contact me at [amelie.danckwerts@protonmail.com](mailto:amelie.danckwerts@protonmail.com), I love to connect!
 
 ***
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loraria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
 
 ***
