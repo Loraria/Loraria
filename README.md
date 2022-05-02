@@ -17,6 +17,14 @@
 
 ***
    
+<!--
+** About Me!**
+- I'm currently a full-time intern working on a MaskRCNN image recognition software
+- My interest lies in Full-Stack-Engineering, DevOps, Machine Learning, Deep Learning, Security and Cybersecurity
+- contact me at [
+-->
+   
+   
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 https://forthebadge.com/generator/  to make badges in future-->
