@@ -21,9 +21,17 @@
 ** About Me!**
 - I'm currently a full-time intern working on a MaskRCNN image recognition software
 - My interest lies in Full-Stack-Engineering, DevOps, Machine Learning, Deep Learning, Security and Cybersecurity
-- contact me at [
+- contact me at [](mailto:), I love to connect!
+<br>
+<br>
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loraria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+
+***
 -->
-   
+
    
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
