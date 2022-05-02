@@ -1,5 +1,5 @@
 <img align="right" src="Amelie.gif"/>
-<img align="left" width="19%" src="https://user-images.githubusercontent.com/95444611/151010275-bd81dec6-dbaf-426a-9ba6-50abbb734761.svg"/>
+<img align="left" width="19%" src="https://github.com/Loraria/Loraria/blob/d9b83771c11e68ec0c2bc72c4d0eb643da62e59a/discord-loraria%237439.svg"/>
 <img align="left" width="19%" src="https://user-images.githubusercontent.com/95444611/151010270-2d115ade-2845-4b4a-8baa-ae3dbf3f0096.svg"/>
 <img align="left" width="19%" src="https://user-images.githubusercontent.com/95444611/151010272-0125128c-1645-4626-9912-8df800542b3e.svg"/>
 <br/>
