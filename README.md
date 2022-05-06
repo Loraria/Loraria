@@ -24,11 +24,12 @@
 - 💬 contact me at [amelie.danckwerts@protonmail.com](mailto:amelie.danckwerts@protonmail.com), I love to connect!
 
 ***
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loraria&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   
+
+![Loraria's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loraria&show_icons=true&theme=synthwave) 
+
 
 ***
--->
+
 
    
 <!--Loraria/Loraria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
