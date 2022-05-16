@@ -21,7 +21,7 @@
 **About Me!**
 - 🌱 I'm currently a full-time intern working on a MaskRCNN image recognition software
 - 👨🏽‍💻 My interest lies in Full-Stack-Engineering, DevOps, Machine Learning, Deep Learning, Security and Cybersecurity
-- 💬 contact me at [amelie.danckwerts@protonmail.com](mailto:amelie.danckwerts@protonmail.com), I love to connect!
+- 💬 contact me at [amelie.danckwerts@proton.me](mailto:amelie.danckwerts@proton.me), I love to connect!
 
 ***
 
