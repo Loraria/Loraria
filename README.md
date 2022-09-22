@@ -19,7 +19,7 @@
    
 
 **About Me!**
-- 🌱 I'm currently a full-time intern working on a MaskRCNN image recognition software
+- 🌱 I'm currently an IT-Security Student with the Deutsche Telekom AG
 - 👨🏽‍💻 My interest lies in Full-Stack-Engineering, Security and Cybersecurity, Machine Learning and Deep Learning
 - 💬 contact me at [amelie.danckwerts@proton.me](mailto:amelie.danckwerts@proton.me), I love to connect!
 
