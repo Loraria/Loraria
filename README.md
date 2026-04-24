@@ -21,7 +21,7 @@
 **About Me!**
 - 🌱 I'm currently an IT-Security Student with the Deutsche Telekom AG
 - 👨🏽‍💻 My interest lies in Cybersecurity, including Cloud Security, Reverse Engineering and incidence response as well as Machine Learning and Deep Learning
-- 💬 contact me at [amelie.danckwerts@proton.me](mailto:amelie.danckwerts@proton.me), I love to connect!
+- 💬 contact me at [amelie.danckwerts@proton.me](mailto:Lorarias@proton.me), I love to connect!
 
 ***
 
