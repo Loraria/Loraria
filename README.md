@@ -19,8 +19,8 @@
 <br/>
 
 **About Me!**
-- 🌱 I'm currently an IT-Security Student with the Deutsche Telekom AG
-- 👨🏽‍💻 My interest lies in Cybersecurity, including Cloud Security, Reverse Engineering and incidence response as well as Machine Learning and Deep Learning
+- 🌱 I'm currently a Cyber Security Expert at DT Security GmbH
+- 👨🏽‍💻 My interest lie in Cybersecurity, including Cloud Security, Reverse Engineering and OSINT as well as Machine Learning and Deep Learning
 - 💬 contact me at [Lorarias@proton.me](mailto:Lorarias@proton.me), I love to connect!
 
 ***
